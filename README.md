@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello ! I'm web developer 🚀 I love to learn and playing with web tech stuff 💻
+
+![Cover](https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/121069578_2076565729143314_6113922376235265025_o.jpg?_nc_cat=103&_nc_sid=e3f864&_nc_eui2=AeHtuDw15Qyy4aSqV0k0dYrnBBECwkMd440EEQLCQx3jjcVgZng1CImbENyRXXTL4ZDbR24asApklCDPRTq8heTy&_nc_ohc=fBtWs14su5EAX9HRYj9&_nc_ht=scontent.fbkk5-4.fna&oh=c3d6d904c6e128b9d9d7afff903045d2&oe=5FB71576)
+
+- 🚀 I'm working on my team project
+- ❤️ My favorite stack is React, Postgresql, Express
+- 💬 Contact me littleboycoding@gmail.com
 
 <!--
 **littleboycoding/littleboycoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
