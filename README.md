@@ -1,10 +1,14 @@
 ## Hello ! I'm web developer 🚀 I love to learn and playing with web tech stuff 💻
-
 ![Cover](carbon%20%281%29.png)
 
-- 🚀 I'm working on my team project
-- ❤️ My favorite stack is React, Postgresql, Express
-- 💬 Contact me littleboycoding@gmail.com
+- 🚀 I’m currently working on my team project
+- ❤️ My favorite stack is React ⚛️, Postgresql 🐘, Express
+- 🛠️ **Software** Operating System Linux 🐧, Text Editor Neovim 📝
+
+## 💬 Contact me
+Email littleboycoding@gmail.com  
+Facebook https://facebook.com/littleboycoding  
+Website https://littleboycoding.github.io  
 
 <!--
 **littleboycoding/littleboycoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
