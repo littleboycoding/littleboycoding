@@ -1,14 +1,15 @@
 ## Hello ! I'm web developer 🚀 I love to learn and playing with web tech stuff 💻
 ![Cover](carbon%20%281%29.png)
 
-- 🚀 I’m currently working on my team project
-- ❤️ My favorite stack is React ⚛️, Postgresql 🐘, Express
+- 🚀 Just finished DigitalOcean Hackathon !
+- ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
 - 🛠️ **Software** Operating System Linux 🐧, Text Editor Neovim 📝
 
 ## 💬 Contact me
 Email littleboycoding@gmail.com  
 Facebook https://facebook.com/littleboycoding  
 Website https://littleboycoding.github.io  
+Dev.to https://dev.to/littleboycoding
 
 <!--
 **littleboycoding/littleboycoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
