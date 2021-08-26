@@ -1,12 +1,14 @@
-## Hello ! I'm web developer 🚀 I love to learn and playing with web tech stuff 💻
+<h1 align="center">Hello 👋 I'm Thanawat</h1>
+<p align="center">Web dev, Vimmer, Reader</p>
+
 ![Cover](carbon%20%281%29.png)
 
-- 🚀 Learning new stuff
+- 🔥 Working on awesome [cat app](https://github.com/littlefunky/cattok)
+- 🚀 Learning Testing (Unit, Integration, Functional)
 - ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
-- 🛠️ **Software** Operating System Linux 🐧, Text Editor Neovim 📝
 
 ## 💬 Contact me
-Email littleboycoding@gmail.com  
-Facebook https://facebook.com/littleboycoding  
-Website https://littleboycoding.github.io  
-Dev.to https://dev.to/littleboycoding
+- Email littleboycoding@gmail.com  
+- Facebook https://facebook.com/littleboycoding  
+- Website https://littleboycoding.github.io  
+- Dev.to https://dev.to/littleboycoding
