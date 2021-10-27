@@ -4,7 +4,7 @@
 ![Cover](carbon%20%281%29.png)
 
 - 🔥 Working on awesome [cat app](https://github.com/littlefunky/cattok)
-- 🚀 Learning Testing (Unit, Integration, Functional)
+- 🚀 Learning Golang, Concurrency
 - ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
 
 ## 💬 Contact me
