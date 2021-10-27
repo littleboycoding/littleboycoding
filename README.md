@@ -3,7 +3,7 @@
 
 ![Cover](carbon%20%281%29.png)
 
-- 🔥 Working on awesome [cat app](https://github.com/littlefunky/cattok)
+- 🔥 Working on competition project
 - 🚀 Learning Golang, Concurrency
 - ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
 
