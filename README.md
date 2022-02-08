@@ -3,7 +3,7 @@
 
 ![Cover](carbon%20%281%29.png)
 
-- 🚀 Learning Blockchain, Web3 development
+- 🚀 Learning Blockchain, Smart Contract, Web3 development
 - ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
 
 ## 💬 Contact me
