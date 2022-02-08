@@ -3,8 +3,7 @@
 
 ![Cover](carbon%20%281%29.png)
 
-- 🔥 Working on competition project
-- 🚀 Learning Golang, Concurrency
+- 🚀 Learning Blockchain, Web3 development
 - ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
 
 ## 💬 Contact me
