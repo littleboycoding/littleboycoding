@@ -3,11 +3,19 @@
 
 ![Cover](carbon%20%281%29.png)
 
-- 🚀 Learning Blockchain, Smart Contract, Web3 development
-- ❤️ My favorite stack is React ⚛️, Mongo 🐘, Apollo 🚀, Express, Nginx (MERN)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,solidity,go,postgres,mongodb,apollo,prisma,react,styledcomponents,nginx,linux,docker" />
+  </a>
+</p>
+
+## 👨‍🚀 What I'm and What I do
+- 📖 Learning UI/UX topics !
+- 🚀 Building little personal tool.
+- ❤️ Love to find new inspiration and way to learn new things.
+- 🐧 Linux and ☕ coffee lover
 
 ## 💬 Contact me
 - Email littleboycoding@gmail.com  
 - Facebook https://facebook.com/littleboycoding  
-- Website https://littleboycoding.github.io  
-- Dev.to https://dev.to/littleboycoding
+- Blog https://littleboycoding.github.io  
