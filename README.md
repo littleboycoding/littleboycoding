@@ -17,5 +17,4 @@
 
 ## 💬 Contact me
 - Email littleboycoding@gmail.com  
-- Facebook https://facebook.com/littleboycoding  
 - Blog https://littleboycoding.github.io  
