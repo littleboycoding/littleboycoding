@@ -16,5 +16,4 @@
 - 🐧 Linux and ☕ coffee lover
 
 ## 💬 Contact me
-- Email littleboycoding@gmail.com  
-- Blog https://littleboycoding.github.io  
+- Email littleboycoding@gmail.com
